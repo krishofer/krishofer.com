@@ -19,3 +19,21 @@ title = 'Kris Hofer'
   # misc
   disableHLJS = true                        # disable highlight.js
   monoDarkIcon = true                       # show monochrome dark mode icon
+
+  [menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    url = "/now"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 3
