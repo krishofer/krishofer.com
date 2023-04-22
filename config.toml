@@ -1,4 +1,4 @@
-baseURL = 'https://krishofer.com'
+# baseURL = 'https://krishofer.com'
 theme = "paper"
 languageCode = 'en-AU'
 title = 'Kris Hofer'
