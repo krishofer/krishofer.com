@@ -2,3 +2,20 @@ baseURL = 'https://krishofer.com'
 theme = "paper"
 languageCode = 'en-AU'
 title = 'Kris Hofer'
+[params]
+  # color style
+  color = 'light' # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'krishofer'
+  github = 'krishofer'
+  rss = true
+
+  # home page profile
+  avatar = 'krishofer999@gmail.com'
+  name = 'Kris Hofer'
+  bio = 'Short spiel goes here.'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
