@@ -17,8 +17,8 @@ title = 'Kris Hofer'
   bio = 'Short spiel goes here.'
 
   # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
+  disableHLJS = true
+  monoDarkIcon = true
 
   [menu]
 
